@@ -90,12 +90,8 @@ This project analyzes the profitability of the movie industry using **SQL, Pytho
 3. Run SQL scripts (`ddl_movies.sql` → `movies quality check file.sql`).
 4. Execute Python scripts in **Jupyter Notebook**.
 
-### 🔹 **With Power BI**
-- Open `movies_report.pbix` in Power BI to explore insights.
 
-
-## 📬 Contact  
-For questions or suggestions, reach out via **your.email@example.com**.  
+-  [click to View the report](https://github.com/otinabrayo/Movie-Industry-Profitability/blob/main/scripts/movies_report.jpg)
 
 
 🔗 **Star this repo ⭐ if you find it useful!**  
