@@ -1,4 +1,4 @@
-```markdown
+
 # 🎬 Movie Industry Profit Analysis  
 
 This project analyzes the profitability of the movie industry using **SQL, Python, and Power BI**. It involves **data cleaning, transformation, and visualization** to extract valuable insights.
