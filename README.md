@@ -71,7 +71,7 @@ This project analyzes the profitability of the movie industry using **SQL, Pytho
 
 ## 📊 Power BI Dashboard  
 
-![Movies Report](reports/movies_report.jpg)  
+![Movies Report](scripts/movies_report.jpg)  
 
 ---
 
